@@ -47980,7 +47980,20 @@ INSERT INTO `cities` (`city_id`, `name`, `state_id`) VALUES
 (48353,'Vijes',805),
 (48354,'Yotoco',805),
 (48355,'Yumbo',805),
-(48356,'Zarzal',805);
+(48356,'Zarzal',805),
+(48357,'Abuja Federal Capital Territor',2648),
+(48358,'Eket',2650),
+(48359,'Etinan',2650),
+(48360,'Ibeno',2650),
+(48361,'Ibiono-Ibom',2650),
+(48362,'Ikot Abasi',2650),
+(48363,'Ikot Ekpene',2650),
+(48364,'Itu',2650),
+(48365,'Mkpat-Enin',2650),
+(48366,'Nsitubom',2650),
+(48367,'Oron',2650),
+(48368,'Ukanafun',2650),
+(48369,'Uyo',2650);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
