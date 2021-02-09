@@ -2188,7 +2188,7 @@ INSERT INTO `states` (`state_id`, `name`, `country_id`) VALUES
 (2179, 'Rivercess', 123),
 (2180, 'Sinoe', 123),
 (2181, 'Ajdabiya', 124);
-INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
+INSERT INTO `states` (`state_id`, `name`, `country_id`) VALUES
 (2182, 'Fezzan', 124),
 (2183, 'Banghazi', 124),
 (2184, 'Darnah', 124),
